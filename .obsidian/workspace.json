@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "09dfcdb9cebdae4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6611cfaf5145eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb06c499e91ad565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Regions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afc200b3cde5437c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identity and Access Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e326042525bc924",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31f4742da06dd0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e4184bbbda2f13e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcf603e64ec23adb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42321a5d9e7e615d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c2f3e1f824ee855",
+    "type": "split",
+    "children": [
+      {
+        "id": "3804d3b352c0e31a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35c7a766008f835b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Identity and Access Management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6f0d88b68a8a43f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Identity and Access Management.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92749929a47d1ae6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a00aeddf42e8ee05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Identity and Access Management.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "afc200b3cde5437c",
+  "lastOpenFiles": [
+    "AWS Regions.md",
+    "Identity and Access Management.md",
+    "AWS Certified Solutions Architect Slides v31.pdf",
+    "Terraform data Block?.md"
+  ]
+}
