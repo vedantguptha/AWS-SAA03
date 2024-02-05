@@ -1,3 +1,5 @@
+
+
 1. AWS has regions all around the world, each region can named as us-east-1, ap-south-1, ap-south-2 
 2. A region is a cluster of data centers
 3. Most of the AWS services are region specific
