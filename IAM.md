@@ -7,7 +7,8 @@
 * Groups only contain users, not other groups
 * Users don’t have to belong to a group, and user can belong to multiple groups
   
-![[ctops-aim-user.png]]
+![[ctops-aim-user.png]](Images/ctops-aim-user.png)
+
 
 ## IAM Permissions means 
 
