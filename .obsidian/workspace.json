@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6611cfaf5145eaf",
+        "id": "f0d163af7e2924fb",
         "type": "tabs",
         "children": [
           {
-            "id": "afc200b3cde5437c",
+            "id": "995079d79c8fd0dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Regions.md",
+                "file": "IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Regions.md",
+                "file": "IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Regions.md",
+                "file": "IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Regions.md"
+                "file": "IAM.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afc200b3cde5437c",
+  "active": "995079d79c8fd0dc",
   "lastOpenFiles": [
-    "Identity and Access Management.md",
     "AWS Regions.md",
+    "IAM.md",
+    "Images/ctops-iam-polices-structure.png",
+    "Images/ctops-aim-user.png",
+    "Images",
     "AWS Certified Solutions Architect Slides v31.pdf",
     "Terraform data Block?.md"
   ]
