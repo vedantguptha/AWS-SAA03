@@ -62,7 +62,7 @@ Example:
 * **Condition: **conditions for when this policy is in effect (optional)
 
 
-![[ctops-iam-polices-structure.png]]
+![[ctops-iam-polices-structure.png]](Images/ctops-iam-polices-structure.png)
 
 ### MFA  
 
